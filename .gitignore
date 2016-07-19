@@ -1,4 +1,5 @@
 /vendor
+/resource/docs
 /public/api
 /build/sami/build
 /build/sami/cache
