@@ -1,0 +1,26 @@
+body {
+	background-image: none;
+	padding-top: 5px;
+}
+.title-area {
+    background-color: #33373e;
+    padding: 60px 0 20px;
+    color: #fff;
+    margin-top: -15px;
+}
+.title {
+    font-size: 50px;
+    font-weight: 300;
+    margin: 0;
+}
+.title-sub{
+    font-size: 25px;
+    font-weight: 300;
+    margin: 0 0 40px;
+}
+nav.main a.brand {
+    padding-top: 5px;
+}
+.btn {
+	background: #33373E;
+}

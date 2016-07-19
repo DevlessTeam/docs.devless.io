@@ -12,6 +12,7 @@
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 	<link rel="stylesheet" href="{{ elixir('assets/css/laravel.css') }}">
+	<link rel="stylesheet" href="/assets/css/custom.css">
 	<link rel="apple-touch-icon" href="/favicon.png">
 </head>
 <body class="@yield('body-class', 'docs') language-php">
@@ -21,8 +22,7 @@
 	<nav class="main">
 		<div class="container">
 			<a href="/" class="brand">
-				<img src="/assets/img/laravel-logo.png" height="30" alt="Laravel logo">
-				Laravel
+				<img src="https://devless.io/images/dv_logo.jpg" height="60">
 			</a>
 
 			<div class="responsive-sidebar-nav">
@@ -39,14 +39,21 @@
 		</div>
 	</nav>
 
+	<div class="title-area">
+		<div class="container">
+			<h2 class="title medium mr-b-10">Devless Knowledgebase</h2>
+			<p class="title-sub medium">Documentation for your awesome application.</p>
+		</div>
+	</div>
+
 	@yield('content')
 
 	<footer class="main">
 		<ul>
 			@include('partials.main-nav')
 		</ul>
-		<p>Laravel is a trademark of Taylor Otwell. Copyright &copy; Taylor Otwell.</p>
-		<p class="less-significant"><a href="http://jackmcdade.com">Design by Jack McDade</a></p>
+		<!-- <p>Laravel is a trademark of Taylor Otwell. Copyright &copy; Taylor Otwell.</p>
+		<p class="less-significant"><a href="http://jackmcdade.com">Design by Jack McDade</a></p> -->
 	</footer>
 
 	@if (Request::is('docs*') && isset($currentVersion))
