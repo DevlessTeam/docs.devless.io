@@ -24,3 +24,10 @@ nav.main a.brand {
 .btn {
 	background: #33373E;
 }
+.sidebar {
+	padding: 35px 0;
+}
+.docs #search, .docs article {
+    padding-left: 0;
+    padding-right: 0;
+}
