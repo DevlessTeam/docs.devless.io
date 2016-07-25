@@ -105,12 +105,9 @@ class Documentation {
 	public static function getDocVersions()
 	{
 		return [
-			'master' => 'Master',
-			// '5.3' => '5.3',
-			'5.2' => '5.2',
-			'5.1' => '5.1',
-			'5.0' => '5.0',
-			'1.2' => '4.2',
+                        '0.1' => '0.1',
+			//'1.0' => '1.0',
+                        
 		];
 	}
 }
