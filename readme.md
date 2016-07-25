@@ -1,1 +1,1 @@
-## Devless official docs platform [Store](https://Store.devless.io)
+## Devless official docs platform [Docs](https://docs.devless.io)
