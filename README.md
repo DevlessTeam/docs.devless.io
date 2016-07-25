@@ -11,18 +11,19 @@ Devless seeks to make building software applications really easy and this should
 * You must have on the next line hyperlinked content menu.
  * The parts of the documentations must have a heading or title (## markdown ) without hyperlinks. 
  * Any references used within the documentation body must have a reference to the original part of the documentation.
-    
+* You may get started with the structure of the documentation using the sample.md
+
 **Rules:**
 * links must be provided to external tools used in demonstrations and descriptions. 
 * keywords may be highlighted to emphasis.
-* As much as typos are inevitable please do well to review docs before commiting them. 
 * Any tool introduced that has nothing to do with **Devless** must be stated as such and clearly made known to the reader that is based on opinions and or preference.
 
 **Highlighting**
 * Use highlights to  emphasis.
 
 **Hyperlinking**
-* Should be used primarily for moving accross the documentation  
+* Should be used primarily for moving across the documentation 
+* You must add an hyperlink reference to your doc file within the documentation markdown, this is used in the sidebar of the documentation renderer to provide easy navigation to users of the doc
 **Context and Addressing**
 * As the writer of the documentation you must try as much as possible to clearly state  your intentions and provide  complete and comprehensive demonstrations.
 * Readers of the documentation may be addressed with the pronoun **"you"**
