@@ -9,4 +9,4 @@ composer.phar
 .env
 .DS_Store
 Thumbs.db
-/nbproject/private/
+/nbproject
