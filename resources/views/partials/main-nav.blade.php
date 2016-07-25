@@ -1,5 +1,5 @@
 <li class="nav-docs"><a href="/docs">Documentation</a></li>
-
+<!-- 
 <li class="dropdown community-dropdown">
 	<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Services <span class="caret"></span></a>
 	<ul class="dropdown-menu" role="menu">
@@ -30,4 +30,4 @@
 		<li><a href="http://larachat.co">Slack</a></li>
 		<li><a href="https://twitter.com/laravelphp">Twitter</a></li>
 	</ul>
-</li>
+</li> -->
