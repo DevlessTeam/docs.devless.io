@@ -21,7 +21,7 @@ body {
 nav.main a.brand {
     padding-top: 5px;
 }
-.btn {
+.btn, footer.main{
 	background: #33373E;
 }
 .sidebar {
@@ -30,4 +30,21 @@ nav.main a.brand {
 .docs #search, .docs article {
     padding-left: 0;
     padding-right: 0;
+}
+.panel.ecosystem {
+    background: none;
+    padding: 50px 0;
+}
+.dv-logo {
+    height: 45px;
+}
+body.the-404 .contain {
+    height: 50vh;
+    text-align: center;
+}
+.panel.ecosystem .tiles .tile:nth-child(3) {
+    margin-right: 0;
+}
+footer.main {
+    padding: 15px 20px;
 }

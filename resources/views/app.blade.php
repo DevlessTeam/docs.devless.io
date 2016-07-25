@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>{{ isset($title) ? $title . ' - ' : null }}Laravel - The PHP Framework For Web Artisans</title>
+	<title>{{ isset($title) ? $title . ' - ' : null }}Devless - Documentation</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="author" content="Taylor Otwell">
 	<meta name="description" content="Laravel - The PHP framework for web artisans.">
@@ -13,7 +13,8 @@
 	<![endif]-->
 	<link rel="stylesheet" href="{{ elixir('assets/css/laravel.css') }}">
 	<link rel="stylesheet" href="/assets/css/custom.css">
-	<link rel="apple-touch-icon" href="/favicon.png">
+	<!-- <link rel="apple-touch-icon" href="/favicon.png"> -->
+	<link rel="icon" type="image/png" href="https://devless.io/logo.png" >
 </head>
 <body class="@yield('body-class', 'docs') language-php">
 
@@ -49,11 +50,9 @@
 	@yield('content')
 
 	<footer class="main">
-		<ul>
-			@include('partials.main-nav')
-		</ul>
-		<!-- <p>Laravel is a trademark of Taylor Otwell. Copyright &copy; Taylor Otwell.</p>
-		<p class="less-significant"><a href="http://jackmcdade.com">Design by Jack McDade</a></p> -->
+		<a href="#">
+			<img src="https://devless.io/images/dv_logo_rev2.png" class="dv-logo">
+		</a>
 	</footer>
 
 	@if (Request::is('docs*') && isset($currentVersion))
