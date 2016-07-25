@@ -1,4 +1,4 @@
-- Introduction
+- Getting Started
     - [Philosophy](/docs/{{version}}/philosophy)
     - [Installation](/docs/{{version}}/installation)
     - [Management Console](/docs/{{version}}/management-console)
