@@ -8,7 +8,7 @@ the-404
 	
 	<div class="contain">
 		<div class="content">
-			<h1>You seem to have upset the delicate internal balance of my housekeeper.</h1>
+			<h1>Sorry, but the page you are looking for has not been found. Try checking the URL for errors, then hit the refresh button on your browser.</h1>
 		</div>
 	</div>
 
