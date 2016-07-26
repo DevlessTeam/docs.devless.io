@@ -10,7 +10,7 @@ home
 
 	<div class="brand">
 		<a href="/">
-			<img src="/assets/img/laravel-logo-white.png" height="50" alt="Laravel white logo">
+			<img src="https://devless.io/images/dv_logo_rev.png" height="50" alt="Laravel white logo">
 		</a>
 	</div>
 
