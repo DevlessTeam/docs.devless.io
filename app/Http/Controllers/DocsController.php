@@ -30,7 +30,7 @@ class DocsController extends Controller {
 	 */
 	public function showRootPage()
 	{
-		return redirect('docs/'.DEFAULT_VERSION);
+		return redirect('docs/'.DEFAULT_VERSION.'/installation');
 	}
 
 	/**
