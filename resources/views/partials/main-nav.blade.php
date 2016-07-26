@@ -1,9 +1,4 @@
-<li><a href="#">API</a></li>
-<li><a href="#">API Specs</a></li>
-<li><a href="#">Console</a></li>
-<li><a href="#">Philosophy</a></li>
-<li><a href="#">SDK</a></li>
-<li><a href="#">Tutorials</a></li>
+<li><a href="/docs">Documentation</a></li>
 <!-- 
 <li class="dropdown community-dropdown">
 	<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Community <span class="caret"></span></a>

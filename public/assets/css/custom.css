@@ -46,5 +46,13 @@ body.the-404 .contain {
     margin-right: 0;
 }
 footer.main {
-    padding: 15px 20px;
+    padding: 20px 0;
+}
+.panel.ecosystem {
+    text-align: center;
+    height: 50vmin;
+    margin-top: 60px;
+}
+.slide-menu {
+    background: #33373e;
 }

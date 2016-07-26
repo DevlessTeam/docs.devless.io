@@ -10,7 +10,7 @@ home
 
 	<div class="brand">
 		<a href="/">
-			<img src="/assets/img/laravel-logo-white.png" height="50" alt="Laravel white logo">
+			<img src="https://devless.io/images/dv_logo_rev.png" height="50" alt="Laravel white logo">
 		</a>
 	</div>
 
@@ -20,33 +20,35 @@ home
 
 </nav>
 	<section class="panel ecosystem light" id="ecosystem">
-		<h1>Learn to Build your Awesome Backend</h1>
-		<!-- <p>Revolutionize how you build the web.</p> -->
-		<div class="tiles">
+		<h1>Getting Started with Devless</h1>
+		<div class="container">
+			<p>Devless is an open source backend as a service for mobile web and IOT application developers to rapidly develop their backend services and generate api endpoints with ease. You can check it out @ <a href="https://devless.io">Devless</a>.</p>
+		</div>
+		<!-- <div class="tiles">
 			<div class="tile">
 				<h2><a href="/docs/api">API</a></h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vehicula nec ligula id facilisis. Nulla pretium laoreet sapien.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vehicula nec ligula id facilisis.</p>
 			</div>
 			<div class="tile">
 				<h2><a href="/docs/apispecs">API Specs</a></h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vehicula nec ligula id facilisis. Nulla pretium laoreet sapien.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vehicula nec ligula id facilisis.</p>
 			</div>
 			<div class="tile">
 				<h2><a href="/docs/homestead">Console</a></h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vehicula nec ligula id facilisis. Nulla pretium laoreet sapien.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vehicula nec ligula id facilisis.</p>
 			</div>
 			<div class="tile">
 				<h2><a href="/docs/homestead">Philosophy</a></h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vehicula nec ligula id facilisis. Nulla pretium laoreet sapien.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vehicula nec ligula id facilisis.</p>
 			</div>
 			<div class="tile">
 				<h2><a href="#">SDK</a></h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vehicula nec ligula id facilisis. Nulla pretium laoreet sapien.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vehicula nec ligula id facilisis.</p>
 			</div>
 			<div class="tile">
 				<h2><a href="#">Tutorials</a></h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vehicula nec ligula id facilisis. Nulla pretium laoreet sapien.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vehicula nec ligula id facilisis.</p>
 			</div>
-		</div>
+		</div> -->
 	</section>
 @endsection
