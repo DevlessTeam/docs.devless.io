@@ -4,7 +4,7 @@
 <li><a href="#">Philosophy</a></li>
 <li><a href="#">SDK</a></li>
 <li><a href="#">Tutorials</a></li>
-
+<!-- 
 <li class="dropdown community-dropdown">
 	<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Community <span class="caret"></span></a>
 	<ul class="dropdown-menu" role="menu">
@@ -16,3 +16,4 @@
 		<li><a href="#">Twitter</a></li>
 	</ul>
 </li>
+ -->
