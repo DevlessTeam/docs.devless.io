@@ -14,7 +14,7 @@
 /**
  * Set the default documentation version...
  */
-define('DEFAULT_VERSION', '0.1');
+define('DEFAULT_VERSION', '1.0');
 
 /**
  * Convert some text to Markdown...
@@ -23,9 +23,7 @@ function markdown($text) {
 	return (new ParsedownExtra)->text($text);
 }
 
-get('/', function() {
-	return view('marketing');
-});
+get('/', 'DocsController@showRootPage');
 
 get('docs', 'DocsController@showRootPage');
 get('docs/{version}/{page?}', 'DocsController@show');
